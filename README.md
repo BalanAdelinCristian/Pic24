@@ -16,3 +16,9 @@ BRA C, expr<br/>
 BRA OV, expr<br/>
 BRA Z, expr<br/>
 BRA N, expr<br/>
+<img src = "https://github.com/BalanAdelinCristian/Pic24/blob/main/Schematic/Capture.PNG"
+raw = true>
+<img src = "https://github.com/BalanAdelinCristian/Pic24/blob/main/Schematic/Capture2.PNG"
+raw = true>
+<img src = "https://github.com/BalanAdelinCristian/Pic24/blob/main/Schematic/Capture1.PNG"
+raw = true>
